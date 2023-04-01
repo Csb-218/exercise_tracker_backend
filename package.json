@@ -4,7 +4,9 @@
   "description": "Backend for Exercise_tracker MERN Application",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "test": "start",
+    "build" : "npm i",
+    "dev": "nodemon server.js"
   },
   "author": "CS BHAGWANT",
   "license": "ISC",
